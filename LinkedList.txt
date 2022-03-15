@@ -1,0 +1,42 @@
+Reverse LL - Rec. and Iterative - Done
+Middle of LL - Done
+check Palindrome - Done
+Fold LL - Done
+Remove Nth from end - Done
+Delete given node in O(1) - Done
+Remove Duplicates from Sorted List - Done
+
+Merge 2 sorted LL - Done
+MergeSort in LL - Done
+Segregate Even and Odd LL - Done
+Merge K sorted LL - Done
+Flattening a LL - Done (Similar to merge k sorted LL using divide and conquer)
+Rotating a LL - Done
+
+Copy LL with Random Pointers - Done
+Intersection pt. of two LL - Done(using difference method)
+
+Reverse LL using addFirst method - Done
+K-reverse LL - Done
+
+Add 2 nos. as LL - Done
+Add 1 to the LL - Done
+
+-> Stack using LL - Done
+-> Queue using LL - Done
+
+=================================================
+
+All Cycle/Loop Variations
+- Detect
+- Remove
+- Starting Pt. of Cycle
+
+
+
+
+
+
+
+
+

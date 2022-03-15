@@ -1,0 +1,35 @@
+========================
+Questions left --
+
+2 problem set of trees
+2 pattern of binary search(rotated sorted)
+3 problem/pattern of array and Strings
+Topological sort in graphs
+Hashmap aquire pattern
+
+=====================================
+
+2 of DP
+1 of tree(k far set)
+Extra problems of stack
+Extra problems of array
+
+Tomorrow's target
+=============
+
+2 problem of array and String
+Topological sort graphs
+
+
+
+
+
+
+
+
+
+
+
+
+
+

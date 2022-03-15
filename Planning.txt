@@ -1,0 +1,18 @@
+trees
+
+Heaps
+
+linkedlist
+
+stacks and queue
+
+Array 
+
+Intervals
+
+Bits 
+
+HashMap 
+
+
+

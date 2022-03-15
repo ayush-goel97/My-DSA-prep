@@ -1,0 +1,24 @@
+Extra problems of Stack
+
+Trees must to do and good to do
+
+Aquire-release pattern of Hashmap
+
+Bits basics problems
+
+Must to do problems of DP
+
+Must to do problems of Arrays and Strings
+
+Revise graphs thoroughly
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+Stack and Queue - 1 day
+
+LL - 1 day
+
+Heaps - 1 day
+
+Trees - 5 day
+
+Hashmap - 2 day
+
+Graphs - 1 day
+
+Bits - 1 day
+
+Binary Search - 1 day
+
+Array + String + Miscellaneous - 3 day
+
+Greedy - 1 day
+
+DP - questions from striver + start applying
+
+
+
+

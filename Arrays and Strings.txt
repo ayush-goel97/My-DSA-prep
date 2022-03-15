@@ -1,0 +1,36 @@
+Arrays and Strings
+---------------------
+NGE-3 or next permutation
+
+Majority element - 1,2,3
+
+maximum product subarray
+
+=================================
+
+Container with most water
+Squares of Sorted Array
+
+Product of array except itself
+
+Sort array of 0 and 1
+Sort array by parity(Similar to 01)
+Sort array of 0,1,2
+Move all zeroes to the end
+
+Max product of 3 numbers
+
+rotate image
+Spiral matrix
+set matrix zeroes
+
+Cyclic sort all 6 problems
+
+==========================
+
+Must to do -
+
+Wiggle sort - 1,2
+NGE-3 or next permutation
+Majority element - 1,2,3
+maximum product subarray

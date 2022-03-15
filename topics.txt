@@ -1,0 +1,29 @@
+LL
+Stacks and Queues
+Trees
+Heaps
+Hashmaps
+Graphs
+Recursion
+Bits
+Array and String
+Greedy - done
+Binary search
+Searching sorting
+DP
+
+
+To be done later
+===================================
+
+String matching algos
+Tries
+
+
+
+
+
+
+
+
+

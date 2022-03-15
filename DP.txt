@@ -1,0 +1,55 @@
+Fibonnaci Set - done
+
+maze set - done
+
+subset set - done
+
+include-exclude set - done
+
+buy and sell set - done
+
+LIS set - done
+
+Catalan set - done
+
+String set - wildcard, regular expression
+
+Kadane set - done
+
+Miscelleneous set - 
+
+interleaving of 2 String
+
+=============================
+
+Rod cutting
+Palindromic cutting
+Mat chain multiplication
+
+==============================
+
+New bulb pattern - 
+
+1326. Minimum Number of Taps to Open to Water a Garden
+1024. Video Stitching
+45. Jump Game II
+https://www.geeksforgeeks.org/count-minimum-number-of-fountains-to-be-activated-to-cover-the-entire-garden/
+https://leetcode.com/discuss/interview-question/1378433/Light-up-minimum-number-of-bulbs.-GS#:~:text=Ans%3A%20minimum%20number%20of%20bulbs%20to%20light%20up%20is%202.
+https://www.interviewbit.com/problems/minimum-lights-to-activate/
+https://www.geeksforgeeks.org/minimum-amount-of-lamps-needed-to-be-installed/
+
+
+Must to do
+==========
+
+Buy and sell k transaction
+wildcard
+regular expression
+interleaving of 2 String
+Rod cutting
+Palindromic cutting
+Mat chain multiplication
+
+and 
+
+Bulb pattern

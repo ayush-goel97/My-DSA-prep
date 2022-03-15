@@ -1,0 +1,95 @@
+Simple Binary Search algo 
+
+Ceil and Floor - simple in a single binary search loop
+
+leetcode 744 - Find Smallest Letter Greater Than Target
+
+First and last index  - 2 separate binary search - we can find number of occurence using these two
+
+search in infinite sorted Array
+
+Pepcoding problems--
+
+PCM marks - sort on basis of P,C and M marks
+search in a 2d matrix - 1
+search in a 2d matrix - 2
+Find equilibrium index
+Find pairs with given difference
+Roof top - length of longest increasing subarray
+Maximize sum of arr[i]*i - simple version
+
+===========================
+
+count inversions
+reverse pairs
+merge sort
+quick sort
+
+single element in sorted array
+
+Largest number using elements in array
+
+Book allocation - done
+Split array largest sum - done
+Capacity to ship packages within D days - done
+
+1283 Find the Smallest Divisor Given a Threshold - done
+875 Koko Eating Bananas - done
+
+square root of a number
+
+To be done
+=============
+
+Rotated sorted array 
+| - min
+| - rot. count
+| - general search
+
+Mountain peek - leet 852 and 1095 and 162
+
+Square root in precision
+Nth root
+
+Painter's partition
+Aggressive cows
+Kuko eating bananas
+
+Matrix median
+Median of 2 sorted arrays
+
+
+See Later
+===========
+
+1482 Minimum Number of Days to Make m Bouquets(Leetcode)
+1231 Divide Chocolate(Leetcode)
+1011 Capacity To Ship Packages In N Days(Leetcode)
+774 Max Distance to Gas Station(Leetcode)
+410 Split Array Largest Sum(Leetcode)
+Aggressive cow (spoj)
+Prata and roti (spoj)
+EKO (spoj)
+
+==============
+
+Book Allocation Problem (GFG)
+Aggressive cow (spoj)
+Prata and roti (spoj)
+EKO (spoj)
+Google kickstart A Q-3 2020
+Painter Partition Problem
+1482 Minimum Number of Days to Make m Bouquets
+1283 Find the Smallest Divisor Given a Threshold
+1231 Divide Chocolate
+1011 Capacity To Ship Packages In N Days
+875 Koko Eating Bananas
+Minimize 
+774 Max Distance to Gas Station
+410 Split Array Largest Sum
+
+
+
+https://leetcode.com/problems/first-bad-version/discuss/769685/Python-Clear-explanation-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems.
+
+

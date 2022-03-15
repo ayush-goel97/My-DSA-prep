@@ -1,0 +1,34 @@
+Trees(Generic, Binary, BST)
+
+Stacks and Queues
+
+LinkedList
+
+Heaps
+
+HashMaps
+
+Graphs
+
+Recursion
+
+Arrays and String
+
+Searching Sorting
+
+Binary Search
+
+Bits 
+
+Tries
+
+Dynamic Programming
+
+Greedy - Internal type problems
+
+
+
+
+
+
+

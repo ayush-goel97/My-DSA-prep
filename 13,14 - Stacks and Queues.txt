@@ -1,0 +1,43 @@
+===============================
+
+-> Balanced Paranthesis
+-> Duplicate Paranthesis 
+
+-> Next greater element
+-> Next smaller element
+-> Stock Span
+-> Largest Area in Histogram
+-> Max k subarray
+
+-> Celebrity Problem
+-> Merge Overlapping intervals
+
+-> Min Stack - 1 - done
+-> Min Stack - 2 - done
+-> Normal Stack - done
+-> Dynamic Stack - done
+-> Normal Queue - done
+-> Dynamic Queue - done
+-> Stack using Queue
+-> Queue using Stack
+-> 2 stacks in Array - done
+
+-> Maximal Rectangle - done
+-> Trapping Rain Water - done
+
+Extra problems -
+
+-> Gas station(Leet 134)
+-> Delete middle element of a Stack
+-> Sort Stack
+-> Reverse Stack
+-> Longest valid parenthesis substring
+
+
+
+
+
+
+
+
+

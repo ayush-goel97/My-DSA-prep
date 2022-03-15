@@ -1,0 +1,84 @@
+Pepcoding pending stuff - {
+-> target sum pair efficiently
+-> Iterative pre, post and inorder - done
+}
+
+LCA of BT - done
+LCA of BST - done
+
+K far away
+burning BT
+
+Recover BST
+Cameras in tree
+Next right pointers
+Largest Zig-Zag path
+
+Done
+=======
+
+Left view - BFS 
+Right view - BFS
+Vertical traversal view - 2 methods(HashMap and ArrayList) 
+Width - use minmax , DFS , int[] minmax of size 2
+Top view - BFS
+Bottom view - BFS
+vertical sum - here BFS or DFS(since order doesn't matter)
+Diagonal traversal
+
+Serialize and DeSerialize of BT and GT - done
+DLL to balanced BST - pepcoding
+
+BST to DLL - submitted on ninjas(by pair class)
+BT to singly LL - submitted on leetcode(by pair class)
+
+construct using pre and in
+construct using post and in
+
+Leetcode 257 - root to leaf path
+Leetcode 112 - R2L path with target - return boolean
+Leetcode 113 - all paths from R2L with target
+Max sum path L2L
+Max sum path N2N
+1026. Maximum Difference Between Node and Ancestor
+
+OUTSIDE PEP QUESTIONS
+========================
+
+Boundary traversal
+Children Sum property in Binary tree
+Subtree of another tree or not
+Reverse level-order traversal
+Merge 2 BST
+
+=============
+
+Final problems to do--
+
+Must to do
+==============
+Target sum pair better
+Diagonal and boundary traversal
+K far set by rajneesh
+Recover BST
+House robber
+Cameras in tree
+Next right pointers
+Largest Zig-Zag path
+Morris traversal by rajneesh
+
+Good to do
+============
+Boundary traversal
+Children Sum property in Binary tree
+Subtree of another tree or not
+Reverse level-order traversal
+Merge 2 BST
+
+
+
+
+
+
+
+
